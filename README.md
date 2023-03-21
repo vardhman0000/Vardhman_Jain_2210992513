@@ -8,10 +8,10 @@ Here are steps to create a pull request.
 - commit the changes and create a pull request.
 - if your facing any doubt you can message me.
 
-| Name | Roll No. | Link of Hosted Website |
-| --------------- | --------------- | --------------- |
-| Harshit Chadha | 2110990571 | [Link](harshit0571.github.io) |
-| Shivansh Sood  | 2210992328 | [Link](https://soodshivansh.github.io/GDSC-Project.github.io/) |
+| Name            | Roll No.         | Link of Hosted Website |
+| --------------- | ---------------- | ------------------------------------------------- |
+| Vardhman Jain   | 2210992513       | https://vardhman0000.github.io/GDSC/sample-website.html |
+
 
 
 
